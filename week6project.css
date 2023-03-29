@@ -1,0 +1,50 @@
+body {
+  background: linear-gradient(
+    179.4deg,
+    rgb(253, 240, 233) 2.2%,
+    rgb(255, 194, 203) 96.2%
+  );
+  border: solid black;
+  border-radius: 10px;
+  margin: 20px 20px;
+  padding: 20px;
+}
+h1 {
+  color: violet;
+  margin: 0 auto;
+  padding: 10px 0 0 10px;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2,
+h3 {
+  color: black;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.current {
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+}
+.days {
+  margin: 0 auto;
+  padding: 40px 10px 10px 40px;
+  text-align: center;
+}
+ul.list-info {
+  list-style: none;
+  margin: 0 auto;
+  padding: 10px 0 0 10px;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul.header-info {
+  list-style: none;
+  text-align: left;
+  margin: 0 auto;
+  padding: 10px 0 0 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
