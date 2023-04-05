@@ -24,6 +24,9 @@ h3 {
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
 }
+.temperature {
+  text-align: center;
+}
 .current {
   margin: 0 auto;
   padding: 30px;
