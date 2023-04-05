@@ -26,12 +26,11 @@ h3 {
 }
 .temperature {
   text-align: center;
-}
-.current {
   margin: 0 auto;
   padding: 30px;
   text-align: center;
 }
+
 .days {
   margin: 0 auto;
   padding: 40px 10px 10px 40px;
